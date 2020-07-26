@@ -54,6 +54,12 @@
       "type": "component",
       "repeatable": false,
       "component": "page.pricing-box"
+    },
+    "sectionAuthors": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-authors",
+      "required": true
     }
   }
 }
