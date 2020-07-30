@@ -20,7 +20,8 @@
     },
     "name": {
       "type": "string",
-      "private": true
+      "private": false,
+      "required": true
     },
     "role": {
       "type": "string",
