@@ -16,7 +16,8 @@
         "Facebook"
       ],
       "default": "Twitter",
-      "private": true
+      "private": false,
+      "required": true
     },
     "url": {
       "type": "string",

@@ -26,7 +26,7 @@
     },
     "button": {
       "type": "component",
-      "repeatable": true,
+      "repeatable": false,
       "component": "page.button",
       "required": true
     }
